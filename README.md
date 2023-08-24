@@ -1,7 +1,9 @@
 # Lab
 Lab study and play with code
 Playground for testing ideas
-
-git status
-git commit -m "notes"
-git push
+<br><br>
+git pull                 <br>
+make edits               <br>
+git status               <br>
+git commit -m "notes"    <br>
+git push                 <br>
